@@ -46,3 +46,7 @@ body {
 .col-xs-6 div {
   background-color: #f8cba6;
 }
+
+h3.text-center {
+  padding-top: 10px;
+}
