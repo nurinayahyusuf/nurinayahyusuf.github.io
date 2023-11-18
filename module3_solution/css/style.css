@@ -35,15 +35,13 @@ body {
 /* end of header */
 
 #main-content h2,
-.col-md-4 h3,
-.col-xs-6 h3 {
+h3.text-center {
   font-weight: bold;
   color: #e08336;
   text-shadow: 1px 1px 1px #222;
 }
 
-.col-md-4 div,
-.col-xs-6 div {
+.col-md-4 div {
   background-color: #f8cba6;
 }
 
